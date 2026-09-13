@@ -13,9 +13,9 @@ The goal was to make something simple, practical and actually useful in my daily
 
 ## 3. BOM / Material
 
-| Material | Quantity | Product |
-|---|---:|---|
-| esun PLA+ Filament | 1 | https://robocraze.com/products/esun-pla-3d-printing-filament-1-75mm-black-color?variant=47070382751968&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=ppc&utm_campaign=23745897046&utm_content=_&utm_term=&campaignid=23745897046&adgroupid=&campaign=23745897046&gad_source=1&gad_campaignid=23741269169&gbraid=0AAAAADgHQvak6qsy8Kk9N7vFFm47awOPp&gclid=Cj0KCQjwk5nVBhDiARIsAHNGqaecgvcLsa92DRY4nYkug5vjg1pDFTJ4Y8krf-gJmUvhnrEHNp8Pz2saAjuPEALw_wcB |
+| Material | Quantity | Product | Price |
+|---|---:|---|---|
+| esun PLA+ Filament | 1 | https://robocraze.com/products/esun-pla-3d-printing-filament-1-75mm-black-color?variant=47070382751968&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=ppc&utm_campaign=23745897046&utm_content=_&utm_term=&campaignid=23745897046&adgroupid=&campaign=23745897046&gad_source=1&gad_campaignid=23741269169&gbraid=0AAAAADgHQvak6qsy8Kk9N7vFFm47awOPp&gclid=Cj0KCQjwk5nVBhDiARIsAHNGqaecgvcLsa92DRY4nYkug5vjg1pDFTJ4Y8krf-gJmUvhnrEHNp8Pz2saAjuPEALw_wcB | $14.1 |
 
 
 The complete organizer uses approximately **94 grams of eSUN PLA filament** when printed at **15% infill**.
