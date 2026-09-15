@@ -21,3 +21,11 @@ The goal was to make something simple, practical and actually useful in my daily
 
 
 The complete organizer uses approximately **94 grams of eSUN PLA+ filament** when printed at **15% infill**.
+
+## Build Images
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/f4e7f3da-8109-4c96-a3b6-4ee4f3c2a123" />
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/684515ef-56d0-4ce3-b0af-60f466402684" />
+
+<img width="1200" height="800" alt="Photo on 15-09-26 at 3 31 AM" src="https://github.com/user-attachments/assets/47eba406-e77c-4aef-a153-7d3f49f7bdd4" />
